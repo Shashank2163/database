@@ -1,0 +1,16 @@
+#errors li{
+    color: red;
+}
+
+h2{
+    color: darkslateblue;
+    padding-left: 30px;
+}
+
+table{
+    width: 70%;
+}
+
+table th{
+    text-align: left;
+}
